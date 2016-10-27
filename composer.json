@@ -1,0 +1,16 @@
+{
+    "name": "versionpress/filesystem",
+    "description": "Simple wrapper of Symfony Filesystem with simpler API",
+    "type": "library",
+    "require": {
+        "symfony/filesystem": "^3.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "VersionPress",
+            "email": "info@versionpress.net"
+        }
+    ],
+    "minimum-stability": "stable"
+}
